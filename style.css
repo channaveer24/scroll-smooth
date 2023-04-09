@@ -28,11 +28,13 @@
 .mes2 {
     width: 30% ;
     position: relative;
-    left: 900px;
+    left: 700px;
     bottom: 500px;
 }
 
 .sec1 {
+    width: 900px;
+    height: 500px;
     position: relative;
     right: 360px;
     bottom: 260px ;
@@ -43,3 +45,10 @@
     position: relative;
     top: 230px;
 }
+.qe {
+    width: 900px;
+    position: relative;
+    right: 950px;
+    top: -33%;
+}
+
