@@ -1,0 +1,45 @@
+.box1 {
+    height: 100vh;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.box2 {
+    height: 100vh;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.img {
+    width: 30% ;
+    position: relative;
+    top: 270px;
+}
+.mes1 {
+    width: 20% ;
+    position: relative;
+    /* top: 200px; */
+    bottom: 230px;
+    right: 50px;
+}
+.mes2 {
+    width: 30% ;
+    position: relative;
+    left: 900px;
+    bottom: 500px;
+}
+
+.sec1 {
+    position: relative;
+    right: 360px;
+    bottom: 260px ;
+}
+
+.bob {
+    width: 40% ;
+    position: relative;
+    top: 230px;
+}
